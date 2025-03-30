@@ -1,0 +1,122 @@
+{
+  "app": {
+    "name": "أزرقي",
+    "slogan": "بوابتك للعقارات"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "map": "الخريطة",
+    "chat": "الشات",
+    "more": "المزيد"
+  },
+  "property": {
+    "id": "رقم العقار",
+    "type": "نوع العقار",
+    "serviceType": "نوع الخدمة",
+    "place": "المكان",
+    "location": "الموقع",
+    "price": "السعر",
+    "size": "المساحة",
+    "bedroomNumbers": "عدد الغرف",
+    "bathroomNumbers": "عدد الحمامات",
+    "description": "الوصف"
+  },
+  "propertyTypes": {
+    "apartment": "شقة",
+    "restaurant": "مطعم",
+    "hall": "قاعة",
+    "pharmacy": "صيدلية",
+    "school": "مدرسة"
+  },
+  "serviceTypes": {
+    "sale": "بيع",
+    "rent": "إيجار"
+  },
+  "search": {
+    "byPlace": "البحث حسب المكان",
+    "bySize": "البحث حسب المساحة",
+    "byRooms": "البحث حسب عدد الغرف",
+    "filter": "فلتر",
+    "applyFilter": "تطبيق الفلتر"
+  },
+  "filter": {
+    "priceRange": "مدى السعر",
+    "otherServices": "خدمات متوفرة أخرى"
+  },
+  "actions": {
+    "share": "مشاركة",
+    "favorite": "المفضلة",
+    "contact": "اتصال",
+    "chat": "محادثة",
+    "viewDetails": "عرض التفاصيل",
+    "applyFilter": "تطبيق",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "save": "حفظ",
+    "delete": "حذف",
+    "changePassword": "تغيير كلمة المرور"
+  },
+  "more": {
+    "account": "الحساب",
+    "favorites": "المفضلة",
+    "privacy": "سياسة الخصوصية",
+    "aboutUs": "من نحن",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج"
+  },
+  "chat": {
+    "sendMessage": "إرسال رسالة",
+    "typeMessage": "اكتب رسالتك هنا",
+    "uploadFile": "رفع ملف",
+    "uploadImage": "رفع صورة",
+    "uploadVoice": "تسجيل صوت",
+    "conversations": "المحادثات",
+    "noMessages": "لا توجد رسائل",
+    "startConversation": "ابدأ محادثة جديدة"
+  },
+  "units": {
+    "egp": "جنيه مصري",
+    "sqm": "م²"
+  },
+  "account": {
+    "profile": "الملف الشخصي",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "security": "إعدادات الأمان",
+    "deleteAccount": "حذف الحساب",
+    "editProfile": "تعديل الملف الشخصي",
+    "saveChanges": "حفظ التغييرات",
+    "loginTitle": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب جديد",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "registerSuccess": "تم إنشاء الحساب بنجاح"
+  },
+  "favorites": {
+    "empty": "لا يوجد عقارات مفضلة حتى الآن",
+    "browseProperties": "تصفح العقارات",
+    "addedToFavorites": "تمت الإضافة إلى المفضلة",
+    "removedFromFavorites": "تمت الإزالة من المفضلة",
+    "clearAll": "حذف الكل"
+  },
+  "about": {
+    "ourStory": "قصتنا",
+    "ourTeam": "فريقنا",
+    "ourVision": "رؤيتنا",
+    "ourValues": "قيمنا",
+    "contactInfo": "معلومات الاتصال"
+  },
+  "errors": {
+    "login": "حدث خطأ أثناء تسجيل الدخول، يرجى المحاولة مرة أخرى",
+    "register": "حدث خطأ أثناء إنشاء الحساب، يرجى المحاولة مرة أخرى",
+    "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "emailInUse": "البريد الإلكتروني مستخدم بالفعل",
+    "weakPassword": "كلمة المرور ضعيفة، يجب أن تحتوي على 6 أحرف على الأقل",
+    "general": "حدث خطأ ما، يرجى المحاولة مرة أخرى لاحقًا"
+  }
+}
